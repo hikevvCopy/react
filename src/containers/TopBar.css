@@ -1,0 +1,10 @@
+.App-topbar {
+    position: fixed;
+    left: 200px;
+    top: 0;
+    width: calc(100% - 200px);
+    background: #565a61;
+    color: white;
+    padding: 0 0 20px 20px;
+    height: 100px;
+}

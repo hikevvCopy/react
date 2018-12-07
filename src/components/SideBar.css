@@ -1,0 +1,18 @@
+.App-sidebar {
+    position: fixed;
+    background: #282c34;
+    color: white;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 200px;
+}
+
+.App-sidebar li {
+    list-style: none;
+    margin-bottom: 20px;
+}
+
+.App-sidebar a {
+    color: white;
+}
